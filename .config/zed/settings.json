@@ -1,0 +1,55 @@
+{
+  "line_ending": "enforce_lf",
+  "tab_size": 2,
+  "cli_default_open_behavior": "new_window",
+  "outline_panel": {
+    "dock": "left",
+  },
+  "toolbar": {
+    "agent_review": true,
+    "selections_menu": true,
+    "breadcrumbs": false,
+    "quick_actions": false,
+  },
+  "title_bar": {
+    "show_user_menu": true,
+    "show_sign_in": true,
+  },
+  "tab_bar": {
+    "show_pinned_tabs_in_separate_row": false,
+    "show_tab_bar_buttons": false,
+    "show_nav_history_buttons": false,
+    "show": true,
+  },
+  "project_panel": {
+    "hide_gitignore": false,
+    "dock": "left",
+    "hide_root": true,
+  },
+
+  // Font Family
+  "ui_font_family": "Maple Mono",
+  "buffer_font_family": "Maple Mono",
+  "terminal": { "font_family": "Maple Mono NF" },
+
+  "ui_font_size": 15,
+  "buffer_font_size": 14,
+
+  // Theme
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Gruvbox Dark Soft",
+  },
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Bearded Icon Theme",
+    "dark": "Bearded Icon Theme",
+  },
+
+  // Only disabled
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+}
